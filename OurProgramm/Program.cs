@@ -4,3 +4,17 @@
 // лучше обойтись исключительно массивами.
 
 string[] TextArray = { "Солнце=)", "Море", "123", "лот" };
+
+
+
+
+void PrintArray(string[] array)
+{
+    if (array.Length > 0)
+    {
+        Array.ForEach(array, (str) => Console.Write($"{str} "));
+        Console.WriteLine();
+    }
+    else
+        System.Console.WriteLine("Array is empty");
+}
