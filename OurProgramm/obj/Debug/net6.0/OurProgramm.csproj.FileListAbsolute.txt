@@ -1,0 +1,15 @@
+C:\Users\leito\Desktop\FinalTest\OurProgramm\bin\Debug\net6.0\OurProgramm.exe
+C:\Users\leito\Desktop\FinalTest\OurProgramm\bin\Debug\net6.0\OurProgramm.deps.json
+C:\Users\leito\Desktop\FinalTest\OurProgramm\bin\Debug\net6.0\OurProgramm.runtimeconfig.json
+C:\Users\leito\Desktop\FinalTest\OurProgramm\bin\Debug\net6.0\OurProgramm.dll
+C:\Users\leito\Desktop\FinalTest\OurProgramm\bin\Debug\net6.0\OurProgramm.pdb
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.csproj.AssemblyReference.cache
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.AssemblyInfoInputs.cache
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.AssemblyInfo.cs
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.csproj.CoreCompileInputs.cache
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.dll
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\refint\OurProgramm.dll
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.pdb
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\OurProgramm.genruntimeconfig.cache
+C:\Users\leito\Desktop\FinalTest\OurProgramm\obj\Debug\net6.0\ref\OurProgramm.dll

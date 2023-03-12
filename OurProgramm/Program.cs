@@ -23,7 +23,6 @@ string[] FindShorttextInArr(string[] array)
     return result;
 }
 
-
 void PrintArray(string[] array)
 {
     if (array.Length > 0)
