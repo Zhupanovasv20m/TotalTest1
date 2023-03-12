@@ -4,8 +4,12 @@
 // лучше обойтись исключительно массивами.
 
 string[] TextArray = { "Солнце=)", "Море", "123", "лот" };
+PrintResult(TextArray);
 
+string[] FindShorttextInArr(string[] array)
+{
 
+}
 
 
 void PrintArray(string[] array)
@@ -17,4 +21,11 @@ void PrintArray(string[] array)
     }
     else
         System.Console.WriteLine("Array is empty");
+}
+
+void PrintResult(string[] array)
+{
+     PrintArray(array);
+    string[] shortArray = FindShorttextInArr(array);
+    PrintArray(shortArray);
 }
