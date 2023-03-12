@@ -8,7 +8,19 @@ PrintResult(TextArray);
 
 string[] FindShorttextInArr(string[] array)
 {
-
+    int length = array.Length;
+    string[] result = new string[length];
+    int count = 0;
+    for (int i = 0; i < length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            result[count] = array[i];
+            count++;
+        }
+    }
+    Array.Resize(ref result, count);
+    return result;
 }
 
 
@@ -25,7 +37,7 @@ void PrintArray(string[] array)
 
 void PrintResult(string[] array)
 {
-     PrintArray(array);
+    PrintArray(array);
     string[] shortArray = FindShorttextInArr(array);
     PrintArray(shortArray);
 }
